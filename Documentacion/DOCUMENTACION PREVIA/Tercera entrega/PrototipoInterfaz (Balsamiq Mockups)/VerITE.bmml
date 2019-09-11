@@ -1,0 +1,137 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="826" measuredH="749" mockupW="684" mockupH="645">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="142" y="104" w="684" h="645" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ver%20Informe%20de%20Trayectoria%20Escolar%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="__group__" x="150" y="188" w="655" h="102" measuredW="655" measuredH="102" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="655" h="102" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="1"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::DateChooser" x="26" y="52" w="143" h="-1" measuredW="144" measuredH="25" zOrder="1" locked="false" isInGroup="1">
+          <controlProperties>
+            <text>%20dd/mm/aaaa%20%20%20%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="19" y="26" w="156" h="-1" measuredW="156" measuredH="21" zOrder="2" locked="false" isInGroup="1">
+          <controlProperties>
+            <text>Fecha%20de%20pr%F3xima%20entrega</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="478" y="26" w="95" h="-1" measuredW="95" measuredH="21" zOrder="3" locked="false" isInGroup="1">
+          <controlProperties>
+            <text>Nombre%20Usuario</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="588" y="26" w="50" h="27" measuredW="50" measuredH="27" zOrder="4" locked="false" isInGroup="1">
+          <controlProperties>
+            <text>Salir</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="786" y="305" w="-1" h="414" measuredW="16" measuredH="100" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="__group__" x="169" y="341" w="135" h="221" measuredW="135" measuredH="221" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::List" x="0" y="0" w="135" h="221" measuredW="100" measuredH="132" zOrder="0" locked="false" isInGroup="3">
+          <controlProperties>
+            <text>%20%0AAlumno%201%0AAlumno%202%0AAlumno%203%0AAlumno%204%0AAlumno%205</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="119" y="2" w="-1" h="219" measuredW="16" measuredH="100" zOrder="1" locked="false" isInGroup="3"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="169" y="305" w="-1" h="-1" measuredW="98" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Listado%20Alumnos</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="395" y="326" w="335" h="-1" measuredW="132" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nombre%20del%20Alumno%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="395" y="357" w="335" h="-1" measuredW="91" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Curso%20Actual</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Canvas" x="367" y="301" w="404" h="329" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="24" controlTypeID="__group__" x="395" y="399" w="335" h="187" measuredW="335" measuredH="187" zOrder="8" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="0" w="335" h="187" measuredW="284" measuredH="187" zOrder="0" locked="false" isInGroup="24">
+          <controlProperties>
+            <align>center</align>
+            <borderStyle>none</borderStyle>
+            <text>A%F1o%5Cr%20%2CPlanificacion%20%5Cr%20Anual%20%20%2C%20Informe%20%5Cr%20Cuatrimestral%2C%20Informe%20%5Cr%20Final%20%0A2010%2C%20%0A2011%2C%20%0A2012%2C%0A2013%2C%20%0A%20%0A%7B25L%2C%200R%2C%2035%2C%200C%7D</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="98" y="131" w="-1" h="-1" measuredW="55" measuredH="19" zOrder="1" locked="false" isInGroup="24">
+          <controlProperties>
+            <text>PIA%202013</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Link" x="98" y="95" w="-1" h="-1" measuredW="52" measuredH="19" zOrder="2" locked="false" isInGroup="24">
+          <controlProperties>
+            <text>PIA%2020....</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Link" x="98" y="42" w="-1" h="-1" measuredW="52" measuredH="19" zOrder="3" locked="false" isInGroup="24">
+          <controlProperties>
+            <text>PIA%2020....</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Link" x="98" y="69" w="-1" h="-1" measuredW="52" measuredH="19" zOrder="4" locked="false" isInGroup="24">
+          <controlProperties>
+            <text>PIA%2020....</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Link" x="201" y="131" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="5" locked="false" isInGroup="24">
+          <controlProperties>
+            <text>IC%202013</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Link" x="201" y="103" w="-1" h="-1" measuredW="45" measuredH="19" zOrder="6" locked="false" isInGroup="24">
+          <controlProperties>
+            <text>IC%2020....</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Link" x="201" y="42" w="-1" h="-1" measuredW="45" measuredH="19" zOrder="7" locked="false" isInGroup="24">
+          <controlProperties>
+            <text>IC%2020....</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Link" x="201" y="69" w="-1" h="-1" measuredW="45" measuredH="19" zOrder="8" locked="false" isInGroup="24">
+          <controlProperties>
+            <text>IC%2020....</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Link" x="287" y="131" w="-1" h="-1" measuredW="45" measuredH="19" zOrder="9" locked="false" isInGroup="24">
+          <controlProperties>
+            <text>IF%202013</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Link" x="287" y="103" w="-1" h="-1" measuredW="42" measuredH="19" zOrder="10" locked="false" isInGroup="24">
+          <controlProperties>
+            <text>IF%2020....</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Link" x="287" y="42" w="-1" h="-1" measuredW="42" measuredH="19" zOrder="11" locked="false" isInGroup="24">
+          <controlProperties>
+            <text>IF%2020....</text>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::Link" x="288" y="69" w="-1" h="-1" measuredW="42" measuredH="19" zOrder="12" locked="false" isInGroup="24">
+          <controlProperties>
+            <text>IF%2020....</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Button" x="371" y="670" w="-1" h="-1" measuredW="77" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cancelar</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
